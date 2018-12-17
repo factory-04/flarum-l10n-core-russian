@@ -1,9 +1,9 @@
 {
-	"name": "metastore/flarum-ext-russian",
+	"name": "metastore/flarum-l10n-forum-russian",
 	"type": "flarum-extension",
 	"description": "Russian language pack for Flarum.",
 	"license": "GPL-3.0-or-later",
-	"homepage": "https://metastore.pro/",
+	"homepage": "https://webmasters.community/",
 	"keywords": [
 		"flarum",
 		"russian",
@@ -21,7 +21,7 @@
 		}
 	],
 	"support": {
-		"email": "support@metastore.pro",
+		"email": "support@webmasters.foundation",
 		"issues": "https://github.com/factory-04/flarum-l10n-forum/issues",
 		"forum": "https://webmasters.community/",
 		"wiki": "https://flarum.webmasters.wiki/",
