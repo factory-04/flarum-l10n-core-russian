@@ -35,13 +35,13 @@ php flarum cache:clear
 
 - [Поддержка](https://webmasters.community/)
 - [Документация](https://flarum.webmasters.wiki/)
-- [Исходный код](https://github.com/factory-04/flarum-l10n-forum)
+- [Исходный код](https://github.com/factory-04/flarum-l10n-core)
 - [Журнал изменений](CHANGELOG.md)
 - [Кодекс поведения (EN)](CODE_OF_CONDUCT.en.md)
 - [Кодекс поведения (RU)](CODE_OF_CONDUCT.ru.md)
 - [Правила участия в разработке](CONTRIBUTING.md)
-- [Сообщить о проблеме](https://github.com/factory-04/flarum-l10n-forum/issues)
-- [Скачать через Packagist](https://packagist.org/packages/metastore/flarum-ext-russian)
+- [Сообщить о проблеме](https://github.com/factory-04/flarum-l10n-core/issues)
+- [Скачать через Packagist](https://packagist.org/packages/metastore/flarum-l10n-core-russian)
 
 ## Платформа
 
