@@ -1,10 +1,12 @@
 {
-	"name": "metastore/flarum-l10n-forum-russian",
+	"name": "metastore/flarum-l10n-core-russian",
 	"type": "flarum-extension",
 	"description": "Russian language pack for Flarum.",
 	"license": "GPL-3.0-or-later",
 	"homepage": "https://webmasters.community/",
 	"keywords": [
+		"metadata",
+		"metastore",
 		"flarum",
 		"russian",
 		"language",
@@ -17,7 +19,7 @@
 			"name": "Kitsune Solar",
 			"email": "kitsune.solar@gmail.com",
 			"homepage": "https://kitsune.solar/",
-			"role": "Developer"
+			"role": "Editor"
 		}
 	],
 	"support": {

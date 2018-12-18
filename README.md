@@ -6,12 +6,12 @@
 
 **Flarum** использует [**Composer**](https://getcomposer.org/) для управления зависимостями и расширениями.
 
-Русский пакет локализации доступен в [**Packagist**](https://packagist.org/packages/metastore/flarum-l10n-forum-russian) и может быть установлен при помощи **Composer**.
+Русский пакет локализации доступен в [**Packagist**](https://packagist.org/packages/metastore/flarum-l10n-core-russian) и может быть установлен при помощи **Composer**.
 
 Убедитесь, что **Composer** установлен на вашем компьютере, и введите следующую команду в терминале, находясь в корневой директории **Flarum**:
 
 ```
-composer require metastore/flarum-l10n-forum-russian
+composer require metastore/flarum-l10n-core-russian
 ```
 
 Так же, данная команда может быть использована для обновления языкового пакета, без обновления сторонних компонентов.
@@ -23,7 +23,7 @@ composer require metastore/flarum-l10n-forum-russian
 Для обновления локализации необходимо выполнить следующие команды:
 
 ```
-composer update metastore/flarum-l10n-forum-russian
+composer update metastore/flarum-l10n-core-russian
 php flarum cache:clear
 ```
 
