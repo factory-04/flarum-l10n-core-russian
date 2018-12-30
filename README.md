@@ -1,8 +1,8 @@
 # Информация
 
 [![Tag](https://img.shields.io/github/tag/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian/releases)
-[![Packagist](https://img.shields.io/packagist/v/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
-[![](https://img.shields.io/packagist/dt/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
+[![Packagist](https://img.shields.io/packagist/v/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-core-russian)
+[![](https://img.shields.io/packagist/dt/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-core-russian)
 [![License](https://img.shields.io/github/license/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](LICENSE)
 [![Liberapay](https://img.shields.io/badge/liberapay-donate-red.svg?style=flat-square)](https://liberapay.com/metadata/donate)
 [![Patreon](https://img.shields.io/badge/patreon-donate-red.svg?style=flat-square)](https://patreon.com/metadata)
