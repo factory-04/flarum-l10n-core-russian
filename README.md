@@ -1,13 +1,8 @@
 # Информация
 
 [![Tag](https://img.shields.io/github/tag/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian/releases)
-[![](https://img.shields.io/github/downloads/factory-04/flarum-l10n-core-russian/total.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian/releases)
-[![Packagist](https://img.shields.io/packagist/v/metastore/xenforo-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/xenforo-l10n-core-russian)
-[![](https://img.shields.io/packagist/dt/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/xenforo-l10n-core-russian)
-
-[![Repo size](https://img.shields.io/github/repo-size/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian)
-[![Issues](https://img.shields.io/github/issues-raw/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian/issues)
-[![Pull requests](https://img.shields.io/github/issues-pr-raw/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-core-russian/pulls)
+[![Packagist](https://img.shields.io/packagist/v/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
+[![](https://img.shields.io/packagist/dt/metastore/flarum-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
 [![License](https://img.shields.io/github/license/factory-04/flarum-l10n-core-russian.svg?style=flat-square)](LICENSE)
 [![Liberapay](https://img.shields.io/badge/liberapay-donate-red.svg?style=flat-square)](https://liberapay.com/metadata/donate)
 [![Patreon](https://img.shields.io/badge/patreon-donate-red.svg?style=flat-square)](https://patreon.com/metadata)
