@@ -7,7 +7,7 @@
 [![Code of Conduct](https://cdn-storage.github.io/images/common/badges/info.coc.en.svg)](CODE_OF_CONDUCT.en.md)
 [![Code of Conduct](https://cdn-storage.github.io/images/common/badges/info.coc.ru.svg)](CODE_OF_CONDUCT.ru.md)
 [![Contributing](https://cdn-storage.github.io/images/common/badges/info.contributing.svg)](CONTRIBUTING.md)
-[![Authors](https://cdn-storage.github.io/images/common/badges/info.changelog.svg)](AUTHORS)
+[![Authors](https://cdn-storage.github.io/images/common/badges/info.authors.svg)](AUTHORS)
 [![Issues](https://cdn-storage.github.io/images/common/badges/info.issues.svg)](https://github.com/factory-04/flarum-l10n-core-russian/issues)
 [![Packagist](https://cdn-storage.github.io/images/common/badges/info.packagist.svg)](https://packagist.org/packages/metastore/flarum-l10n-core-russian)
 [![License](https://cdn-storage.github.io/images/common/badges/license.gpl-3.0.svg)](LICENSE)
